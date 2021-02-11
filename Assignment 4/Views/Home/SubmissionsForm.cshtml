@@ -1,0 +1,26 @@
+﻿@model Assignment_4.Models.Submission
+
+
+<div class="text-center">
+    <h1 class="display-4">Subbmit ay Food Place</h1>
+</div>
+
+<form asp-action="SubmissionsForm" method="post">
+    <label asp-for="Name">Wutt iz ur naym?</label>
+    <input asp-for="Name" type="text" placeholder="yor naem goez heer" required />
+    </br>
+
+    <label asp-for="FoodPlaceName">Wuht food place du u liek?</label>
+    <input asp-for="FoodPlaceName" type="text" placeholder="food place naam heyr" required />
+    </br>
+
+    <label asp-for="Fave">Wot izz yr fayvrt fewd att thu food place?</label>
+    <input asp-for="Fave" type="text" placeholder="tipe favorit foohd inn dis bahks" required />
+    </br>
+
+    @Html.LabelFor(Submission => Submission.Phone)
+    @Html.TextBoxFor(Submission => Submission.Phone)
+    @Html.ValidationMessageFor(Submission => Submission.Phone, "", new { @class = "error" })
+
+    <input type="submit" value="Prehs fhiss buuttn too submt reekwest" />
+</form>

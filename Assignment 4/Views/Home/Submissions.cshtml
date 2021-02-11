@@ -1,0 +1,30 @@
+﻿<body>
+    @model IEnumerable<Assignment_4.Models.Submission>
+
+    <div class="text-center">
+        <h1 class="display-4">Food Place Subbmishunz</h1>
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Naym</th>
+                <th scope="col">Food Place Name</th>
+                <th scope="col">Fayvrit</th>
+                <th scope="col">Fone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Assignment_4.Models.Submission s in Model)
+            {
+                <tr>
+                    <td>@s.Name</td>
+                    <td>@s.FoodPlaceName</td>
+                    <td>@s.Fave</td>
+                    <td>@s.Phone</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</body>

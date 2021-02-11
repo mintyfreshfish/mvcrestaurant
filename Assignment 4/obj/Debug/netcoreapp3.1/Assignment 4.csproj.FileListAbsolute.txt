@@ -1,0 +1,39 @@
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.exe
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.deps.json
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.runtimeconfig.json
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.runtimeconfig.dev.json
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.dll
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.pdb
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.Views.dll
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\bin\Debug\netcoreapp3.1\Assignment 4.Views.pdb
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csprojAssemblyReference.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.AssemblyInfoInputs.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.AssemblyInfo.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorAssemblyInfo.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorAssemblyInfo.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4.StaticWebAssets.Manifest.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4.StaticWebAssets.xml
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment 4.styles.css
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.TagHelpers.input.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.TagHelpers.output.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorCoreGenerate.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorTargetAssemblyInfo.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.RazorTargetAssemblyInfo.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.Views.pdb
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.dll
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.pdb
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.genruntimeconfig.cache
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Assignment 4.csproj.CopyComplete
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Submissions.cshtml.g.cs
+C:\Users\lukyb\source\repos\Assignment 4\Assignment 4\obj\Debug\netcoreapp3.1\Razor\Views\Home\SubmissionsForm.cshtml.g.cs
